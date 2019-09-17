@@ -1,4 +1,4 @@
-Main Method:
+# Main Method:
 
 
   n = int(input("Input # of Branches : "))
@@ -10,4 +10,4 @@ Main Method:
   print(n*" ", "#")
 
 
-Call it with: main()
+# Call it with: main()
