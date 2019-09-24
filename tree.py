@@ -1,5 +1,4 @@
-# Main Method:
-
+def main():
 
   n = int(input("Input # of Branches : "))
   
@@ -11,3 +10,4 @@
 
 
 # Call it with: main()
+main()
